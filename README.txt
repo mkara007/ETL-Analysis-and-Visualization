@@ -1,0 +1,1 @@
+First open db.yaml and fill the required places. Then run final_data.py and import it to MySQL. Finally run for_comparison.py and import it to MySQL.
